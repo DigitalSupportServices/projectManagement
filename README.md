@@ -1,5 +1,5 @@
 # Infrastructure Projects
-## Home Lab project
+[x] ## Home Lab project
 <details>
 Overview
 <summary>
