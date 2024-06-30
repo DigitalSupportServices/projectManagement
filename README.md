@@ -54,6 +54,9 @@ Setup an open source or trial version vulnerability scanner program. Initialise 
 
 __Starting Resources & Links__
 - [ ]Download Nessus Vulnerability Assessment – Tenable(https://www.tenable.com/products/nessus)
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 - [ ]Vulnerability Scanning: What It Is and How to Do It Right – eSecurityPlant (https://www.esecurityplanet.com/network-security/vulnerability-scanning.html
 
 
@@ -64,8 +67,8 @@ __Starting Resources & Links__
 
 
 
-Created by Tau[^2].
+Created by Tau[^2] for Tau [^1]
 
-[^1]: My reference.
+[^1]: www.benlimited.co.uk
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
