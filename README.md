@@ -50,12 +50,13 @@ Setup an open source or trial version vulnerability scanner program. Initialise 
 
 <details>Project Recommendations
 <summary>It is recommended you have familiarity with the foundations of networking, network security attacks, cybersecurity fundamental concepts and technologies, use of virtualization software / hypervisor, and formidable research skills.</summary>
+</details>
 
 __Starting Resources & Links__
-[]Download Nessus Vulnerability Assessment – Tenable
-[]Vulnerability Scanning: What It Is and How to Do It Right – eSecurityPlant
+- [ ]Download Nessus Vulnerability Assessment – Tenable(https://www.tenable.com/products/nessus)
+- [ ]Vulnerability Scanning: What It Is and How to Do It Right – eSecurityPlant (https://www.esecurityplanet.com/network-security/vulnerability-scanning.html
 
-</details>
+
 
 
 
