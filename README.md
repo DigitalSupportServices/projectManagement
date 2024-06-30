@@ -10,7 +10,7 @@ A cybersecurity homelab is a small-scale environment meant to simulate different
 </details>
 
 **Instructions**
-Research and plan a cybersecurity homelab build for 2 users - 1 Admin rights and Group Admin for support/client role and they will have the following rights and permissions:
+- Research and plan a cybersecurity homelab build for 2 users - 1 Admin rights and Group Admin for support/client role and they will have the following rights and permissions:
 
 Common technologies used in homelab environments include:
 - Windows Active Directory Directory Services
@@ -28,13 +28,13 @@ Common technologies used in homelab environments include:
 ## 2. The Secure File Sharing Service
 
 <details>Overview
-Safely share your files across an unsecured medium. Using a popular and secure network protocol, such as secure file transfer protocol (SFTP) or secure shell (SSH), transfer files across an insecure medium. Transfer files between two hosts.
+- Safely share your files across an unsecured medium. Using a popular and secure network protocol, such as secure file transfer protocol (SFTP) or secure shell (SSH), transfer files across an insecure medium. Transfer files between two hosts.
 
 <summary>Project Recommendations
-It is recommended you have familiarity with the foundations of networking, network protocols, use of virtualization software / hypervisor, and formidable research skills.</summary></details>
+- It is recommended you have familiarity with the foundations of networking, network protocols, use of virtualization software / hypervisor, and formidable research skills.</summary></details>
 
 
 ## RESOURCES
-[How to Use SFTP to Securely Transfer Files with a Remote Server – DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
-[SFTP File Transfer Protocol – SSH](https://www.ssh.com/ssh/sftp/)
+- [How to Use SFTP to Securely Transfer Files with a Remote Server – DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
+- [SFTP File Transfer Protocol – SSH](https://www.ssh.com/ssh/sftp/)
 
