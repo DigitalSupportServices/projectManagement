@@ -1,8 +1,8 @@
 # Infrastructure Projects
 ## Home Lab project
-<details><summary>
-**Overview**
-
+<details>
+Overview
+<summary>
 A cybersecurity homelab is a small-scale environment meant to simulate different components of a business network. Implementations of a homelab vary depending on the intended size, scale, and complexity of components. The majority of homelab environments are virtualized with virtualization software (e.x. Oracle VirtualBox, VMware Workstation Player, etc).
 
 
