@@ -22,8 +22,8 @@ Common technologies used in homelab environments include:
 - System Information Event Management (SIEM)
 - Email server.
 
-RESOURCES
-[Using AWS for a home lab implementation](https://www.youtube.com/watch?v=uo_Xf_pGTvg)
+## RESOURCES
+- [Using AWS for a home lab implementation](https://www.youtube.com/watch?v=uo_Xf_pGTvg)
 
 ## 2. The Secure File Sharing Service
 
@@ -34,7 +34,7 @@ Safely share your files across an unsecured medium. Using a popular and secure n
 It is recommended you have familiarity with the foundations of networking, network protocols, use of virtualization software / hypervisor, and formidable research skills.</summary></details>
 
 
-
-[How to Use SFTP to Securely Transfer Files with a Remote Server – DigitalOcean]
-[SFTP File Transfer Protocol – SSH]
+## RESOURCES
+[How to Use SFTP to Securely Transfer Files with a Remote Server – DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
+[SFTP File Transfer Protocol – SSH](https://www.ssh.com/ssh/sftp/)
 
